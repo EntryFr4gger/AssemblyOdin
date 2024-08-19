@@ -37,5 +37,5 @@ of an external authentication server provided by Microsoft.
 
 ## More Information
 - If you want to learn more you can check out this youtube clips where we show the app working [Heimdall Component](https://youtu.be/eecV_-uHFLA) [Odin Component](https://youtu.be/oZewawVME9s)
-- Or you can check our wiki for some written down information in a simplified form [Wiki](https://github.com/Rafael4DC/AssemblyOdin/wiki) 
-- Or read our formal [report](https://github.com/Rafael4DC/AssemblyOdin/blob/main/docs/ReportAssemblyOdin.pdf) for this project
+- Or you can check our wiki for some written down information in a simplified form [Wiki](https://github.com/EntryFr4gger/AssemblyOdin/wiki) 
+- Or read our formal [report](https://github.com/EntryFr4gger/AssemblyOdin/blob/main/docs/ReportAssemblyOdin.pdf) for this project
