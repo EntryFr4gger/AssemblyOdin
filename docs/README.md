@@ -1,6 +1,6 @@
 # Assembly Odin
 #### School Management System for Point-Based Learning
-[![GitHub repo size](https://img.shields.io/github/repo-size/Rafael4DC/AssemblyOdin.svg?logo=github&style=social)](https://github.com/Rafael4DC/AssemblyOdin) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rafael4DC/AssemblyOdin.svg?logo=git&style=social)](https://github.com/Rafael4DC/AssemblyOdin) [![GitHub license](https://img.shields.io/github/license/Rafael4DC/AssemblyOdin.svg?style=social&logo=github)](https://github.com/Rafael4DC/AssemblyOdin/blob/main/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/EntryFr4gger/AssemblyOdin.svg?logo=github&style=social)](https://github.com/EntryFr4gger/AssemblyOdin) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EntryFr4gger/AssemblyOdin.svg?logo=git&style=social)](https://github.com/EntryFr4gger/AssemblyOdin) [![GitHub license](https://img.shields.io/github/license/EntryFr4gger/AssemblyOdin.svg?style=social&logo=github)](https://github.com/EntryFr4gger/AssemblyOdin/blob/main/LICENSE)
 
 ## What is Assembly
 
